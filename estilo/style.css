@@ -4,14 +4,12 @@
 }
 
 boby{
-    background-color: #ca70bb;
-    margin: 0;
-    padding: 0;
+    background-color: #9b6091;
 }
 main{
     background-color: white;
     width: 500px;
-    margin:  auto;
+    margin: auto;
 }
 padding{
     padding: 10px;
